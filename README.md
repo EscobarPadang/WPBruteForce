@@ -5,7 +5,6 @@
     $ pip install rich
     $ pip install requests 
     $ pkg install bash
-    $ pip install -r requirements. txt
     $ git clone https://github.com/EscobarPadang/WPBruteForce
     $ cd WPBruteForce
     $ python multi.py 
