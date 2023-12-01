@@ -1,4 +1,5 @@
-# WPBruteForce
+# WPBruteForce 
+python
 Wordpress Brute Force  
 $ pkg update && upgrade
 $ pkg install python
