@@ -4,9 +4,11 @@
     $ pkg install git
     $ pip install rich
     $ pip install requests 
-    $ pkg install bash
+    $ pkg install bash 
     $ git clone https://github.com/EscobarPadang/WPBruteForce
-    $ cd WPBruteForce
+    $ cd WPBruteForce 
+    $ chmod +x listsite.txt
     $ python multi.py 
     ,,, 
-<a href="https://ibb.co/HhYDgSF"><img src="https://i.ibb.co/phZvX70/Screenshot-2023-12-01-13-23-56-776-com-termux.jpg" alt="Screenshot-2023-12-01-13-23-56-776-com-termux" border="0" /></a>
+<a href="https://ibb.co/HhYDgSF"><img src="https://i.ibb.co/phZvX70/Screenshot-2023-12-01-13-23-56-776-com-termux.jpg" alt="Screenshot-2023-12-01-13-23-56-776-com-termux" border="0" /></a> 
+<a href="https://kosred.com/a/czyofz.jpg"><img src="https://kosred.com/a/czyofz.jpg" alt="Screenshot-2023-12-01-13-23-56-776-com-termux" border="0" /></a>
